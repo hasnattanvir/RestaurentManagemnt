@@ -1,0 +1,38 @@
+{
+  "user": [
+    {
+      "name": "Hasnat Tanvir",
+      "email": "hasnattanvir014@gmail.com",
+      "password": "12345678",
+      "phone": "01625010631",
+      "id": 1
+    },
+    {
+      "name": "jihad",
+      "email": "jihad@gmail.com",
+      "password": "45654656",
+      "phone": "5456145613213",
+      "id": 4
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "KFC",
+      "address": "dhanmondi,12",
+      "contact": 22121
+    },
+    {
+      "id": 2,
+      "name": "VFC",
+      "address": "dhanmondi,13",
+      "contact": 41456
+    },
+    {
+      "name": "GFC",
+      "address": "Dhaka,Bangladesh",
+      "contact": "56454564",
+      "id": 3
+    }
+  ]
+}
